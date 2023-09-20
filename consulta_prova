@@ -33,7 +33,7 @@
   Responda : z/(y + (z - y))
   Resposta:  1
 5 - Mostra o resultado da execucao do algoritmo pos-ordem para a arvore binaria apresentada:
-   Resposta: 1,4,7,6,3,10,13,14,8
+   Resposta: 1,4,7,6,3,13,14, 10, 8
 6- Mostra o resultado da execucao do algoritmo em-ordem para a arvore binaria apresentada:
     Resposta : 2,7,5,6,11,2,4,3,5
 7 - Analise a arvore e faca correspondencia enumerando as interrogacoes: 
